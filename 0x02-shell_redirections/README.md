@@ -1,0 +1,1 @@
+Shell ridirections readme file
